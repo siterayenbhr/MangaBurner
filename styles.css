@@ -33,6 +33,7 @@ a{
 .main{
     background-image: url('bgfull.png');
     height: 45em;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
