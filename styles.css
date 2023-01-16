@@ -31,14 +31,16 @@ a{
     text-decoration: none;
 }
 .main{
-    background-image: url('bgfull.webp');
+    background-image: url('https://github.com/siterayenbhr/MangaBurner/blob/7ca0af7f496d1ef23247d6383df8b06a1eab067a/bgfull.png');
     height: 45em;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .maine{
-    background-image: url('bgfull.webp');
+    background-image: url('https://storage.cloudconvert.com/tasks/7548c648-90c8-42ae-90c9-6c5052703809/bgfull.png?AWSAccessKeyId=cloudconvert-production&Expires=1673904493&Signature=fY8f9c0qBVOLydMEqE5iBHkfmkM%3D&response-content-disposition=inline%3B%20filename%3D%22bgfull.png%22&response-content-type=image%2Fpng');
     height: 45em;
     background-position: center;
     background-repeat: no-repeat;
